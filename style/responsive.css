@@ -20,19 +20,25 @@
         margin: 0 auto;
 
     }
+
+    /* Online Game Section Starts */
+    .online-img-container{
+        flex-direction: column;
+        gap: 5px;
+    }
     
        
         
        
         
-}
 
+}
 @media screen and (min-width:576px) and (max-width:960px) {
     .nav-container{
         height: auto;
         flex-direction: column;
     }
-
+    
     .nav-list a{
         display: flex;
         flex-direction: column;
@@ -47,4 +53,18 @@
         margin-top: 20px;
         margin: 0 auto;
     }
+    /* Online Game Section Starts */
+    .online-img-container{
+        flex-direction: column;
+        gap: 5px;
+        
+    }
+       
+        
+       
+        
+
+    
 }
+
+

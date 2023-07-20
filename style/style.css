@@ -153,3 +153,55 @@ background: #4EC5F7;
 }
 
 /* Banner Section Ends */
+
+/* Online Game Section Starts */
+.game-container{
+    max-width: 1440px;
+    
+    text-align: center;
+    
+    
+}
+.game-content{
+    
+    
+    
+}
+.game-title{
+    color: #0B0223;
+
+
+font-size: 48px;
+
+font-weight: 700;
+line-height: normal;
+}
+.funny-games{
+ color: rgba(135, 88, 241, 1) ;
+}
+.game-content p{
+    color: #534C64;
+   
+    font-size: 18px;
+    
+    font-weight: 400;
+    line-height: 30px; 
+}
+
+
+.online-img-container{
+    display: flex;
+    gap: 5px;
+    
+}
+.online-img-container p{
+    color: #534C64;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 150% */
+}
+
+
+/* Online Game Section Ends */
