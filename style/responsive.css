@@ -26,6 +26,28 @@
         flex-direction: column;
         gap: 5px;
     }
+    /* image group Section Stars  */
+
+.group-62 {
+   
+   
+    margin: 0 auto;
+    
+    flex-direction: column;
+   
+}
+.group-62-text {
+    text-align: end;
+    width: 100%;
+    overflow: hidden;
+}
+
+.sml-img {
+    width: 300px;
+    height: 350px;
+    
+}
+/* image group Section Ends  */
 
     /* Footer Section Start */
     .footer-element > ul{
@@ -68,6 +90,30 @@
         gap: 5px;
         
     }
+    /* image group Section Stars  */
+
+.group-62 {
+   
+   
+    margin: 0 auto;
+    
+    flex-direction: column;
+   
+}
+.group-62-text {
+    text-align: end;
+    width: 100%;
+    overflow: hidden;
+}
+
+.sml-img {
+    width: 300px;
+    height: 350px;
+    
+}
+/* image group Section Ends  */
+
+
     /* Footer Section Start */
     .footer-element > ul{
         flex-direction: column;
