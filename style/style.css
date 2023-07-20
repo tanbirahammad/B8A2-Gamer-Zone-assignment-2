@@ -205,3 +205,94 @@ line-height: 30px; /* 150% */
 
 
 /* Online Game Section Ends */
+
+/* Footer Section Stars */
+
+.footer-section{
+    border: 2px solid lightblue;
+    background: #0B0223;
+    
+}
+
+    .footer-container{
+        max-width: 1440px;
+        height: auto;
+        border: 1px solid tomato;
+        
+        
+        
+        
+    }
+    .footer-title{
+        display: flex;
+        justify-content: center;
+        
+    }
+    .footer-logo{
+        color: #FFF;
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    }
+
+    .footer-element{
+        color: #FFF;
+       
+    }
+    .footer-element > ul{
+        display: flex;
+        gap: 50px;
+        justify-content: center;
+        
+    }
+    .footer-element > ul li{
+        
+        list-style: none;
+        color: #FFF;
+
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+    }
+    .footer-icons > ul {
+        display: flex;
+        gap: 50px;
+        justify-content: center;
+    }
+    .footer-icons > ul li{
+        color: #FFF;
+        list-style: none;
+        
+    }
+
+    .footer-condition > ul{
+        display: flex;
+        gap: 60px;
+        justify-content: center;
+    }
+
+    .footer-condition > ul li{
+        list-style: none;
+        color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+    }
+
+    .copy-write p{
+        color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+    }
+/* Footer Section Ends */
